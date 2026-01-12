@@ -6,3 +6,4 @@ algos
 data science
 intro to AI
 machine learning
+ML
