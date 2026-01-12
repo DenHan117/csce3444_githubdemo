@@ -4,3 +4,4 @@ computer networks
 data visualization
 algos
 data science
+intro to AI
